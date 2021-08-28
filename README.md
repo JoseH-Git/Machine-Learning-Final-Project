@@ -1,4 +1,7 @@
 # Brain Drain - Preventing employee retrition in companies 
+
+![alt text]https://files2.abingcdn.com/balkaneu.com/uploads/2019/12/27075211/brain_drain.jpg
+
 ### Contributors
 + Rafael Deyta
 + José Sierra 
@@ -21,7 +24,7 @@ We used real data from an oil company, that will remain unnamed for privacy reas
 array of variables. 
 
 ### Data Cleaning
-The data was then cleaned through python to be able to merge all the databases together and have uniformity, as well as normalization between all variables.
+The data was then cleaned through Python to be able to merge all the databases together and have uniformity, as well as normalization between all variables.
 
 ### Exploration 
 We used Tableu to explore the data, this helps us visualize the possible factors that could impact job retention rates. 
