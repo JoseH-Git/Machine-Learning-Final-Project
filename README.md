@@ -14,6 +14,8 @@ Brain drain is a slang term indicating substantial withdraw or movement of indiv
 
 This results in an escalated cost for companies and the risk of losing employees to other competitors or jobs. In short, job insatisfaction represents one of the highest costs at company-level and prevents workplaces from nurturing and growing loyal employees. 
 
+![image](https://user-images.githubusercontent.com/79945107/131227401-c016a6ae-04b1-45c7-96ef-3aa0e188e7b4.png)
+
 ### Our Goal?
 Use machine learning to analyze a key employee dataset in order to create a model capable of determining the risk and probability of an employee leaving the company and help establish a data-fed path to success for employees in order to prevent premature resignation. 
 
