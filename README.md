@@ -40,5 +40,3 @@ In conclusion, we detected areas of opportunities and red signs that employers a
 
 ### Host Application
 * [Heroku](http://radiant-sands-55964.herokuapp.com/
-
-)
