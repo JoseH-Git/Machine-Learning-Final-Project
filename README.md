@@ -29,7 +29,6 @@ The data was then cleaned through Python to be able to merge all the databases t
 ### Exploration 
 We used Tableu to explore the data, this helps us visualize the possible factors that could impact job retention rates. 
 
-| --- |
 We had originally thought of using logistic regression as our machine learning model, but halfway in, realied that random forest gave us more accurate results. We transformed non numerical data into numerical columns,used a heatmap to visually identify the correlation between variables. Then, we trained and tested the model (X_train, X_test, y_train, y_test, Train_test_split), evaluated accuracy with a confusion matrix and finally used SMOTE which helped us detect that it was necessary to balance out data. 
 
 ### Conclusions 
