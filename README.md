@@ -2,13 +2,6 @@
 
 ![image](https://user-images.githubusercontent.com/79945107/131227401-c016a6ae-04b1-45c7-96ef-3aa0e188e7b4.png)
 
-### Contributors
-+ Rafael Deyta
-+ José Sierra 
-+ Luis Villa 
-+ Manuel Borrego 
-+ María Inés Oñate 
-
 ### The issue and context 
 Brain drain is a slang term indicating substantial withdraw or movement of individuals. A brain drain can result from turmoil within a nation, the existence of favorable professional opportunities in other organizations or even countries, or from a desire to seek a higher standard of living. Brain drain may occur at the organizational or industrial levels when workers perceive better pay, benefits, or upward mobility within another company or industry.
 
@@ -44,3 +37,10 @@ In conclusion, we detected areas of opportunities and red signs that employers a
 
 ### Host Application
 * [Heroku] http://radiant-sands-55964.herokuapp.com/
+
+### Contributors
++ Rafael Deyta
++ José Sierra 
++ Luis Villa 
++ Manuel Borrego 
++ María Inés Oñate 
