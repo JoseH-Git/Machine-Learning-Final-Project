@@ -6,6 +6,8 @@
 + Manuel Borrego 
 + María Inés Oñate 
 
+![alt text](https://plsadaptive.s3.amazonaws.com/eco/images/channel_content/images/biggest_oil_and_gas_companies.jpg)
+
 ### The issue and context 
 Brain drain is a slang term indicating substantial withdraw or movement of individuals. A brain drain can result from turmoil within a nation, the existence of favorable professional opportunities in other organizations or even countries, or from a desire to seek a higher standard of living. Brain drain may occur at the organizational or industrial levels when workers perceive better pay, benefits, or upward mobility within another company or industry.
 
