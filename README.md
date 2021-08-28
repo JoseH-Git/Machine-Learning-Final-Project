@@ -1,6 +1,6 @@
 # Brain Drain - Preventing employee retrition in companies 
 
-![image](https://user-images.githubusercontent.com/79945107/131227401-c016a6ae-04b1-45c7-96ef-3aa0e188e7b4.png)
+![image](https://user-images.githubusercontent.com/79945107/131227401-c016a6ae-04b1-45c7-96ef-3aa0e188e7b4.png)width="800"
 
 ### Contributors
 + Rafael Deyta
