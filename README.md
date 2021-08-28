@@ -39,4 +39,4 @@ We had originally thought of using logistic regression as our machine learning m
 In conclusion, we detected areas of opportunities and red signs that employers and HR departments can pay special attention to in order to prevent unnecessary or premature retrition, resignment or desertion, and in this way avoid high costs and hiring saturation. 
 
 ### Host Application
-* [Heroku](http://radiant-sands-55964.herokuapp.com/
+* [Heroku] http://radiant-sands-55964.herokuapp.com/
