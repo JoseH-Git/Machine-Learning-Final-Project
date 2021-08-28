@@ -1,6 +1,6 @@
 # Brain Drain - Preventing employee retrition in companies 
 
-![alt text]https://files2.abingcdn.com/balkaneu.com/uploads/2019/12/27075211/brain_drain.jpg
+![image](https://user-images.githubusercontent.com/79945107/131227362-4f168068-8597-4e5c-9b1f-6c1c3aef5aff.png))
 
 ### Contributors
 + Rafael Deyta
